@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on making a portfolio of Power BI projects
+- 🔭 I’m currently working on making a portfolio of Power BI projects.
 - 🌱 I’m currently learning SQL, Power BI and Python to get a deeper understanding of Data Analytics
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
