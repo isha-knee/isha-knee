@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. This is Ishani. A detail oriented and motivated professional transitioning from Biotechnology to the world of DATA!
 
 <!--
 **isha-knee/isha-knee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
