@@ -13,9 +13,10 @@ Power BI, Excel
   
   📘  **Exploring:**
 Data storytelling, dashboard design best practices
-  
-  🧠  **Currently Learning:**
-Concepts in AI/ML and statistics for Data Science
+
+🧠  **Currently Learning:**
+Concepts in AI/ML and Statistics for Data Science
+
 ---
 ## 🚀 **Current Projects & Learning**
 I have hands-on experience working on multiple projects involving Power BI and SQL, where I developed interactive dashboards, performed data transformations, and derived actionable insights to support business decision-making. You can find all my projects on my profile.
