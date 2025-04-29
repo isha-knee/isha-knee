@@ -4,17 +4,18 @@ A detail oriented and motivated professional leveraging Biotech skills to the wo
 Currently, I'm diving deep into **Data Analytic** and exploring how technology can help solve real-world problems.I enjoy learning, building, and sharing knowledge with the tech community.
 ---
 ## 🔧 **Tools**
+
   💻  **Languages:** 
-- SQL, Python
+SQL, Python
   
   📊  **Data Tools:**
-- Power BI, Excel
+Power BI, Excel
   
   📘  **Exploring:**
-- Data storytelling, dashboard design best practices
+Data storytelling, dashboard design best practices
   
   🧠  **Currently Learning:**
-- Concepts in AI/ML and statistics for Data Science
+Concepts in AI/ML and statistics for Data Science
 ---
 ## 🚀 **Current Projects & Learning**
 I have hands-on experience working on multiple projects involving Power BI and SQL, where I developed interactive dashboards, performed data transformations, and derived actionable insights to support business decision-making. You can find all my projects on my profile.
