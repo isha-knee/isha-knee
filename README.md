@@ -33,6 +33,7 @@ lahiri.ishani96@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/ishani-lahiri-672a31124/
+
 ---
 *Thanks for visiting my GitHub! Feel free to check out my projects below 👇*
 <!--
