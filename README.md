@@ -6,11 +6,11 @@ Currently, I'm diving deep into **Data Analytic** and exploring how technology c
 ## 🔧 **Tools**
 💻 **Languages:** 
 -  SQL, Python
-📊 **Data Tools:**
+-  📊 **Data Tools:**
 -  Power BI, Excel
-📘 **Exploring:**
+-  📘 **Exploring:**
 -  Data storytelling, dashboard design best practices
-🧠 **Currently Learning:**
+-  🧠 **Currently Learning:**
 -  Concepts in AI/ML and statistics for Data Science
 ---
 ## 🚀 **Current Projects & Learning**
@@ -23,9 +23,9 @@ I have hands-on experience working on multiple projects involving Power BI and S
 📚 Continuous Learning & Upskilling  
 ---
 ## 📫 **Let's Connect**
-📧 Email: 
+-  📧 Email: 
 -  lahiri.ishani96@gmail.com
-💼 LinkedIn:
+-  💼 LinkedIn:
 -  https://www.linkedin.com/in/ishani-lahiri-672a31124/
 ---
 *Thanks for visiting my GitHub! Feel free to check out my projects below 👇*
