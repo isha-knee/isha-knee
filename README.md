@@ -6,7 +6,7 @@ Currently, I'm diving deep into **Data Analytic** and exploring how technology c
 ## 🔧 **Tools**
 💻 **Languages:** 
 -  SQL, Python
--  📊 **Data Tools:**
+- 📊 **Data Tools:**
 -  Power BI, Excel
 -  📘 **Exploring:**
 -  Data storytelling, dashboard design best practices
