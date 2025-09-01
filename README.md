@@ -7,7 +7,7 @@ Currently, I'm diving deep into **Data Analytic** and exploring how technology c
 ## 🔧 **Tools**
 
   💻  **Languages:** 
-SQL, Python
+SQL, Python(NumPy/Pandas)
   
   📊  **Data Tools:**
 Power BI, Excel
@@ -25,7 +25,7 @@ I have hands-on experience working on multiple projects involving Power BI and S
 ## 💡 **Interests**
 📈 Data Visualization & Analytics  
 🧩 Business Intelligence and Strategy  
-🔍 Data Cleaning & Exploration  
+🔍 Data Cleaning & Exploratory Data Analysis  
 📚 Continuous Learning & Upskilling  
 ---
 ## 📫 **Let's Connect**
